@@ -1,4 +1,4 @@
-﻿ComplexCd,TotalHslds,RentBldg,Location,SupplyType,ExclArea,AreaHslds,VacantCnt,QualifType,RentDeposit,RentalFee,SubwayStns,BusStops,ParkSpaces,RegVehicles
+﻿단지코드,총세대수,임대건물구분,지역,공급유형,전용면적,전용면적별세대수,공가수,자격유형,임대보증금,임대료,도보 10분거리 내 지하철역 수(환승노선 수 반영),도보 10분거리 내 버스정류장 수,단지내주차면수,등록차량수
 C2483,900,아파트,경상북도,국민임대,39.72,134,38,A,15667000,103680,0,3,1425,1015
 C2483,900,아파트,경상북도,국민임대,39.72,15,38,A,15667000,103680,0,3,1425,1015
 C2483,900,아파트,경상북도,국민임대,51.93,385,38,A,27304000,184330,0,3,1425,1015
